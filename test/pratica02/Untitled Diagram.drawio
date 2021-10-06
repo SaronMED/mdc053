@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T19:17:51.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="yjlcB7uC5XPjVCL-QVRA" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T19:19:07.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="oRTIgu-Zd0IztncU90ip" version="15.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2297" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2586" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="E16XBH-M-nEpriW6LHRJ-12" value="Empresa de Prod. Farmacêuticos" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E16XBH-M-nEpriW6LHRJ-13" value="Recolhe" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="E16XBH-M-nEpriW6LHRJ-13" value="Capta" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="333" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E16XBH-M-nEpriW6LHRJ-14" value="Pedidos de Compras" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
