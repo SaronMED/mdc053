@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T19:16:18.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="qC7wTw2ykj-0p_vV3p4O" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T19:16:59.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="k6z1U8iEb7sAZ3r08oCj" version="15.4.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="599" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -15,6 +15,18 @@
         </mxCell>
         <mxCell id="7WtKob1lGojaLKXV-pY6-4" value="*Matrícula&#xa;Nome&#xa;Salário" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="7WtKob1lGojaLKXV-pY6-3">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7WtKob1lGojaLKXV-pY6-6" value="gerencia" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.004;exitY=0.208;exitDx=0;exitDy=0;entryX=1.007;entryY=0.71;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERzeroToMany;endFill=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="7WtKob1lGojaLKXV-pY6-3" source="7WtKob1lGojaLKXV-pY6-4" target="7WtKob1lGojaLKXV-pY6-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="161" y="50" />
+              <mxPoint x="230" y="50" />
+              <mxPoint x="230" y="95" />
+              <mxPoint x="161" y="95" />
+            </Array>
+            <mxPoint x="170" y="50.00999999999999" as="sourcePoint" />
+            <mxPoint x="170" y="95.00999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7WtKob1lGojaLKXV-pY6-5" value="LOTA&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERzeroToMany;endFill=0;startArrow=ERone;startFill=0;endSize=6;sketch=0;" edge="1" parent="1" target="7WtKob1lGojaLKXV-pY6-4">
           <mxGeometry relative="1" as="geometry">
